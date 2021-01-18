@@ -11,7 +11,9 @@ bundle install
 ```
 
 ## Tests
-The project has unit tests under the folder `./spec/`
+The project has unit tests under the folder `spec/`.
+
+All external requests are stubbed with webmock.
 
 
 ### How to run the tests
